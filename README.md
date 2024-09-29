@@ -1,3 +1,7 @@
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
 # Instagram Sentiment & Emotion Analysis
 
 This project is a web-based application designed to analyze the sentiment and emotions of Instagram users by extracting text from images and post descriptions. It utilizes OCR (Optical Character Recognition) for image text extraction, Instaloader for Instagram data collection, and Natural Language Processing (NLP) models to determine the sentiment and emotions within the posts.
