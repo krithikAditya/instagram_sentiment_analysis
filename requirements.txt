@@ -1,0 +1,5 @@
+flask
+instaloader
+pillow
+pytesseract
+nltk
